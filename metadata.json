@@ -1,0 +1,140 @@
+{
+  "sounds" : [
+    {
+      "description" : "G2 phrase mezzo-forte legato",
+      "name" : "Bass Clarinet",
+      "image" : "jpeg",
+      "color" : "702898"
+    },
+    {
+      "description" : "long crescendo bass drum mallet",
+      "name" : "Bass Drum",
+      "image" : "jpeg",
+      "color" : "FF3B30"
+    },
+    {
+      "description" : "As1 phrase mezzo-forte staccatissimo",
+      "name" : "Bassoon",
+      "image" : "jpeg",
+      "color" : "A06B23"
+    },
+    {
+      "description" : "C2 phrase mezzo-forte arco-col-legno-tratto",
+      "name" : "Cello",
+      "image" : "jpeg",
+      "color" : "007AFF"
+    },
+    {
+      "description" : "B5 phrase mezzo-forte nonlegato",
+      "name" : "Clarinet",
+      "image" : "jpeg",
+      "color" : "FF9500"
+    },
+    {
+      "description" : "long mezzo-forte rhythm",
+      "name" : "Cowbell",
+      "image" : "jpeg",
+      "color" : "A06B23"
+    },
+    {
+      "description" : "A1 phrase piano arco-normal",
+      "name" : "Double Bass",
+      "image" : "jpeg",
+      "color" : "34C759"
+    },
+    {
+      "description" : "very-long forte effect",
+      "name" : "Flexatone",
+      "image" : "jpeg",
+      "color" : "FF3B30"
+    },
+    {
+      "description" : "A5 phrase mezzo-forte staccato",
+      "name" : "Flute",
+      "image" : "jpeg",
+      "color" : "007AFF"
+    },
+    {
+      "description" : "G4 phrase forte legato",
+      "name" : "French Horn",
+      "image" : "jpeg",
+      "color" : "FFCC00"
+    },
+    {
+      "description" : "D5 very-long forte tremolo",
+      "name" : "Mandolin",
+      "image" : "jpeg",
+      "color" : "FF9500"
+    },
+    {
+      "description" : "B3 phrase mezzo-forte staccato",
+      "name" : "Oboe",
+      "image" : "jpeg",
+      "color" : "34C759"
+    },
+    {
+      "description" : "G3 phrase mezzo-forte tenuto",
+      "name" : "Saxophone",
+      "image" : "jpeg",
+      "color" : "FFCC00"
+    },
+    {
+      "description" : "long forte shaken",
+      "name" : "Sleigh Bells",
+      "image" : "jpeg",
+      "color" : "8C33B6"
+    },
+    {
+      "description" : "phrase cresc-decresc rhythm",
+      "name" : "Snare Drum",
+      "image" : "jpeg",
+      "color" : "FF9500"
+    },
+    {
+      "description" : "phrase mezzo-forte hand",
+      "name" : "Tambourine",
+      "image" : "jpeg",
+      "color" : "A06B23"
+    },
+    {
+      "description" : "E2 very-long cresc-decresc normal",
+      "name" : "Trombone",
+      "image" : "jpeg",
+      "color" : "FFCC00"
+    },
+    {
+      "description" : "Gs3 phrase mezzo-forte tenuto",
+      "name" : "Trumpet",
+      "image" : "jpeg",
+      "color" : "34C759"
+    },
+    {
+      "description" : "As1 phrase mezzo-forte staccato",
+      "name" : "Tuba",
+      "image" : "jpeg",
+      "color" : "FF3B30"
+    },
+    {
+      "description" : "C3 phrase mezzo-forte con-sord",
+      "name" : "Viola",
+      "image" : "jpeg",
+      "color" : "007AFF"
+    },
+    {
+      "description" : "D4 very-long mezzo-piano non-vibrato",
+      "name" : "Violin",
+      "image" : "jpeg",
+      "color" : "A06B23"
+    },
+    {
+      "description" : "phrase forte scraped",
+      "name" : "Washboard",
+      "image" : "jpeg",
+      "color" : "702898"
+    }
+  ],
+  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
+  "name" : "Instruments",
+  "image" : "🎼",
+  "color" : "EBEBEB"
+}
